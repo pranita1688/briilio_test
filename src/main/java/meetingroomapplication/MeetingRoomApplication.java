@@ -19,6 +19,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class MeetingRoomApplication {
 
     public static void main(String[] args) {
+    	
         SpringApplication.run(MeetingRoomApplication.class, args);
     }
     
